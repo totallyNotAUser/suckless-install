@@ -13,6 +13,7 @@ install_deps_arch() {
 
 arch_specific_dwm_patches() {
   # TODO
+  echo todo > /dev/null
 }
 
 apply_dwm_patches() {
@@ -23,10 +24,12 @@ apply_dwm_patches() {
 
 apply_st_patches() {
   # TODO
+  echo todo > /dev/null
 }
 
 apply_dmenu_patches() {
   # TODO
+  echo todo > /dev/null
 }
 
 which apt && DISTRO="ubuntu"
