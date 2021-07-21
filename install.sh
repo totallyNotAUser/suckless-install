@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo '[***]        dwm-st-dmenu by totallyNotAUser        [***]'
+echo '[***]      suckless-install by totallyNotAUser      [***]'
 echo '[***] Hassle-free installation of suckless programs [***]'
 
 install_deps_ubuntu() {
